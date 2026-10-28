@@ -1,0 +1,2256 @@
+{
+  "tableRows": 1046,
+  "searchRows": 1001,
+  "validReferences": 1378,
+  "warnings": 0,
+  "errors": 0,
+  "issues": [],
+  "metadataRows": [
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "",
+      "sourceLine": 9,
+      "rawMarkdown": "| [Lec 2](#lec-2) | Machine Learning for Healthcare: History and Unique Challenges | Expert systems; EHR; fairness; deployment failures | PDF pp. 1–41 · 41 slides |",
+      "cells": [
+        {
+          "heading": "Lecture",
+          "markdown": "[Lec 2](#lec-2)",
+          "text": "Lec 2",
+          "segments": [
+            {
+              "type": "link",
+              "url": "#lec-2",
+              "text": "Lec 2"
+            }
+          ]
+        },
+        {
+          "heading": "Topic",
+          "markdown": "Machine Learning for Healthcare: History and Unique Challenges",
+          "text": "Machine Learning for Healthcare: History and Unique Challenges",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Machine Learning for Healthcare: History and Unique Challenges"
+            }
+          ]
+        },
+        {
+          "heading": "Major Concepts",
+          "markdown": "Expert systems; EHR; fairness; deployment failures",
+          "text": "Expert systems; EHR; fairness; deployment failures",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Expert systems; EHR; fairness; deployment failures"
+            }
+          ]
+        },
+        {
+          "heading": "Slide Coverage",
+          "markdown": "PDF pp. 1–41 · 41 slides",
+          "text": "PDF pp. 1–41 · 41 slides",
+          "segments": [
+            {
+              "type": "text",
+              "text": "PDF pp. 1–41 · 41 slides"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "",
+      "sourceLine": 10,
+      "rawMarkdown": "| [Lec 3](#lec-3) | Understanding Clinical Care and Clinical Data | Diagnosis/prognosis; RCT; learning system; heart-rate confounding | PDF pp. 1–40 · 40 slides |",
+      "cells": [
+        {
+          "heading": "Lecture",
+          "markdown": "[Lec 3](#lec-3)",
+          "text": "Lec 3",
+          "segments": [
+            {
+              "type": "link",
+              "url": "#lec-3",
+              "text": "Lec 3"
+            }
+          ]
+        },
+        {
+          "heading": "Topic",
+          "markdown": "Understanding Clinical Care and Clinical Data",
+          "text": "Understanding Clinical Care and Clinical Data",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Understanding Clinical Care and Clinical Data"
+            }
+          ]
+        },
+        {
+          "heading": "Major Concepts",
+          "markdown": "Diagnosis/prognosis; RCT; learning system; heart-rate confounding",
+          "text": "Diagnosis/prognosis; RCT; learning system; heart-rate confounding",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Diagnosis/prognosis; RCT; learning system; heart-rate confounding"
+            }
+          ]
+        },
+        {
+          "heading": "Slide Coverage",
+          "markdown": "PDF pp. 1–40 · 40 slides",
+          "text": "PDF pp. 1–40 · 40 slides",
+          "segments": [
+            {
+              "type": "text",
+              "text": "PDF pp. 1–40 · 40 slides"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "",
+      "sourceLine": 11,
+      "rawMarkdown": "| [Lec 4](#lec-4) | Classification Problems in Healthcare | Bias/variance; CV; confusion matrix; ROC; imbalance | PDF pp. 1–42 · 42 slides |",
+      "cells": [
+        {
+          "heading": "Lecture",
+          "markdown": "[Lec 4](#lec-4)",
+          "text": "Lec 4",
+          "segments": [
+            {
+              "type": "link",
+              "url": "#lec-4",
+              "text": "Lec 4"
+            }
+          ]
+        },
+        {
+          "heading": "Topic",
+          "markdown": "Classification Problems in Healthcare",
+          "text": "Classification Problems in Healthcare",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Classification Problems in Healthcare"
+            }
+          ]
+        },
+        {
+          "heading": "Major Concepts",
+          "markdown": "Bias/variance; CV; confusion matrix; ROC; imbalance",
+          "text": "Bias/variance; CV; confusion matrix; ROC; imbalance",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Bias/variance; CV; confusion matrix; ROC; imbalance"
+            }
+          ]
+        },
+        {
+          "heading": "Slide Coverage",
+          "markdown": "PDF pp. 1–42 · 42 slides",
+          "text": "PDF pp. 1–42 · 42 slides",
+          "segments": [
+            {
+              "type": "text",
+              "text": "PDF pp. 1–42 · 42 slides"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "",
+      "sourceLine": 12,
+      "rawMarkdown": "| [Lec 5](#lec-5) | Unsupervised Problems in Healthcare | PCA; ICA; self-supervision; clinical embeddings | PDF pp. 1–45 · 45 slides |",
+      "cells": [
+        {
+          "heading": "Lecture",
+          "markdown": "[Lec 5](#lec-5)",
+          "text": "Lec 5",
+          "segments": [
+            {
+              "type": "link",
+              "url": "#lec-5",
+              "text": "Lec 5"
+            }
+          ]
+        },
+        {
+          "heading": "Topic",
+          "markdown": "Unsupervised Problems in Healthcare",
+          "text": "Unsupervised Problems in Healthcare",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Unsupervised Problems in Healthcare"
+            }
+          ]
+        },
+        {
+          "heading": "Major Concepts",
+          "markdown": "PCA; ICA; self-supervision; clinical embeddings",
+          "text": "PCA; ICA; self-supervision; clinical embeddings",
+          "segments": [
+            {
+              "type": "text",
+              "text": "PCA; ICA; self-supervision; clinical embeddings"
+            }
+          ]
+        },
+        {
+          "heading": "Slide Coverage",
+          "markdown": "PDF pp. 1–45 · 45 slides",
+          "text": "PDF pp. 1–45 · 45 slides",
+          "segments": [
+            {
+              "type": "text",
+              "text": "PDF pp. 1–45 · 45 slides"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "",
+      "sourceLine": 13,
+      "rawMarkdown": "| [Lec 6](#lec-6) | Unsupervised Learning in Healthcare II | t-SNE; distances; hierarchical/DBSCAN; cluster evaluation | PDF pp. 1–40 · 40 slides |",
+      "cells": [
+        {
+          "heading": "Lecture",
+          "markdown": "[Lec 6](#lec-6)",
+          "text": "Lec 6",
+          "segments": [
+            {
+              "type": "link",
+              "url": "#lec-6",
+              "text": "Lec 6"
+            }
+          ]
+        },
+        {
+          "heading": "Topic",
+          "markdown": "Unsupervised Learning in Healthcare II",
+          "text": "Unsupervised Learning in Healthcare II",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Unsupervised Learning in Healthcare II"
+            }
+          ]
+        },
+        {
+          "heading": "Major Concepts",
+          "markdown": "t-SNE; distances; hierarchical/DBSCAN; cluster evaluation",
+          "text": "t-SNE; distances; hierarchical/DBSCAN; cluster evaluation",
+          "segments": [
+            {
+              "type": "text",
+              "text": "t-SNE; distances; hierarchical/DBSCAN; cluster evaluation"
+            }
+          ]
+        },
+        {
+          "heading": "Slide Coverage",
+          "markdown": "PDF pp. 1–40 · 40 slides",
+          "text": "PDF pp. 1–40 · 40 slides",
+          "segments": [
+            {
+              "type": "text",
+              "text": "PDF pp. 1–40 · 40 slides"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "",
+      "sourceLine": 14,
+      "rawMarkdown": "| [Lec 7](#lec-7) | Risk Stratification | Risk windows; claims features; SARD; scores | PDF pp. 1–39 · 39 slides |",
+      "cells": [
+        {
+          "heading": "Lecture",
+          "markdown": "[Lec 7](#lec-7)",
+          "text": "Lec 7",
+          "segments": [
+            {
+              "type": "link",
+              "url": "#lec-7",
+              "text": "Lec 7"
+            }
+          ]
+        },
+        {
+          "heading": "Topic",
+          "markdown": "Risk Stratification",
+          "text": "Risk Stratification",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Risk Stratification"
+            }
+          ]
+        },
+        {
+          "heading": "Major Concepts",
+          "markdown": "Risk windows; claims features; SARD; scores",
+          "text": "Risk windows; claims features; SARD; scores",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Risk windows; claims features; SARD; scores"
+            }
+          ]
+        },
+        {
+          "heading": "Slide Coverage",
+          "markdown": "PDF pp. 1–39 · 39 slides",
+          "text": "PDF pp. 1–39 · 39 slides",
+          "segments": [
+            {
+              "type": "text",
+              "text": "PDF pp. 1–39 · 39 slides"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "",
+      "sourceLine": 15,
+      "rawMarkdown": "| [Lec 8](#lec-8) | Causal Inference in Healthcare | Potential outcomes; ATE/CATE; assumptions; g-formula | PDF pp. 1–51 · 51 slides |",
+      "cells": [
+        {
+          "heading": "Lecture",
+          "markdown": "[Lec 8](#lec-8)",
+          "text": "Lec 8",
+          "segments": [
+            {
+              "type": "link",
+              "url": "#lec-8",
+              "text": "Lec 8"
+            }
+          ]
+        },
+        {
+          "heading": "Topic",
+          "markdown": "Causal Inference in Healthcare",
+          "text": "Causal Inference in Healthcare",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Causal Inference in Healthcare"
+            }
+          ]
+        },
+        {
+          "heading": "Major Concepts",
+          "markdown": "Potential outcomes; ATE/CATE; assumptions; g-formula",
+          "text": "Potential outcomes; ATE/CATE; assumptions; g-formula",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Potential outcomes; ATE/CATE; assumptions; g-formula"
+            }
+          ]
+        },
+        {
+          "heading": "Slide Coverage",
+          "markdown": "PDF pp. 1–51 · 51 slides",
+          "text": "PDF pp. 1–51 · 51 slides",
+          "segments": [
+            {
+              "type": "text",
+              "text": "PDF pp. 1–51 · 51 slides"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "",
+      "sourceLine": 16,
+      "rawMarkdown": "| [Lec 9](#lec-9) | PyTorch Tutorial | Causal-method limitations; PyTorch outline only | PDF pp. 1–9 · 9 slides |",
+      "cells": [
+        {
+          "heading": "Lecture",
+          "markdown": "[Lec 9](#lec-9)",
+          "text": "Lec 9",
+          "segments": [
+            {
+              "type": "link",
+              "url": "#lec-9",
+              "text": "Lec 9"
+            }
+          ]
+        },
+        {
+          "heading": "Topic",
+          "markdown": "PyTorch Tutorial",
+          "text": "PyTorch Tutorial",
+          "segments": [
+            {
+              "type": "text",
+              "text": "PyTorch Tutorial"
+            }
+          ]
+        },
+        {
+          "heading": "Major Concepts",
+          "markdown": "Causal-method limitations; PyTorch outline only",
+          "text": "Causal-method limitations; PyTorch outline only",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Causal-method limitations; PyTorch outline only"
+            }
+          ]
+        },
+        {
+          "heading": "Slide Coverage",
+          "markdown": "PDF pp. 1–9 · 9 slides",
+          "text": "PDF pp. 1–9 · 9 slides",
+          "segments": [
+            {
+              "type": "text",
+              "text": "PDF pp. 1–9 · 9 slides"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "",
+      "sourceLine": 17,
+      "rawMarkdown": "| [Lec 10](#lec-10) | Convolutional Neural Networks for Medical Imaging and Time-series | Convolution/padding/stride; CNNs; U-Net; ECG/EEG; transfer | PDF pp. 1–50 · 50 slides |",
+      "cells": [
+        {
+          "heading": "Lecture",
+          "markdown": "[Lec 10](#lec-10)",
+          "text": "Lec 10",
+          "segments": [
+            {
+              "type": "link",
+              "url": "#lec-10",
+              "text": "Lec 10"
+            }
+          ]
+        },
+        {
+          "heading": "Topic",
+          "markdown": "Convolutional Neural Networks for Medical Imaging and Time-series",
+          "text": "Convolutional Neural Networks for Medical Imaging and Time-series",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Convolutional Neural Networks for Medical Imaging and Time-series"
+            }
+          ]
+        },
+        {
+          "heading": "Major Concepts",
+          "markdown": "Convolution/padding/stride; CNNs; U-Net; ECG/EEG; transfer",
+          "text": "Convolution/padding/stride; CNNs; U-Net; ECG/EEG; transfer",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Convolution/padding/stride; CNNs; U-Net; ECG/EEG; transfer"
+            }
+          ]
+        },
+        {
+          "heading": "Slide Coverage",
+          "markdown": "PDF pp. 1–50 · 50 slides",
+          "text": "PDF pp. 1–50 · 50 slides",
+          "segments": [
+            {
+              "type": "text",
+              "text": "PDF pp. 1–50 · 50 slides"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "",
+      "sourceLine": 18,
+      "rawMarkdown": "| [Lec 11](#lec-11) | Interpreting ML Models in Healthcare | Interpretability; saliency; LIME; SHAP; counterfactuals | PDF pp. 1–45 · 45 slides |",
+      "cells": [
+        {
+          "heading": "Lecture",
+          "markdown": "[Lec 11](#lec-11)",
+          "text": "Lec 11",
+          "segments": [
+            {
+              "type": "link",
+              "url": "#lec-11",
+              "text": "Lec 11"
+            }
+          ]
+        },
+        {
+          "heading": "Topic",
+          "markdown": "Interpreting ML Models in Healthcare",
+          "text": "Interpreting ML Models in Healthcare",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Interpreting ML Models in Healthcare"
+            }
+          ]
+        },
+        {
+          "heading": "Major Concepts",
+          "markdown": "Interpretability; saliency; LIME; SHAP; counterfactuals",
+          "text": "Interpretability; saliency; LIME; SHAP; counterfactuals",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Interpretability; saliency; LIME; SHAP; counterfactuals"
+            }
+          ]
+        },
+        {
+          "heading": "Slide Coverage",
+          "markdown": "PDF pp. 1–45 · 45 slides",
+          "text": "PDF pp. 1–45 · 45 slides",
+          "segments": [
+            {
+              "type": "text",
+              "text": "PDF pp. 1–45 · 45 slides"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "",
+      "sourceLine": 24,
+      "rawMarkdown": "| Part 1 | [Quick Navigation Dashboard](#part-1) |",
+      "cells": [
+        {
+          "heading": "Section",
+          "markdown": "Part 1",
+          "text": "Part 1",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Part 1"
+            }
+          ]
+        },
+        {
+          "heading": "Go to",
+          "markdown": "[Quick Navigation Dashboard](#part-1)",
+          "text": "Quick Navigation Dashboard",
+          "segments": [
+            {
+              "type": "link",
+              "url": "#part-1",
+              "text": "Quick Navigation Dashboard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "",
+      "sourceLine": 25,
+      "rawMarkdown": "| Part 2 | [Global Alphabetical Keyword Index](#part-2) |",
+      "cells": [
+        {
+          "heading": "Section",
+          "markdown": "Part 2",
+          "text": "Part 2",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Part 2"
+            }
+          ]
+        },
+        {
+          "heading": "Go to",
+          "markdown": "[Global Alphabetical Keyword Index](#part-2)",
+          "text": "Global Alphabetical Keyword Index",
+          "segments": [
+            {
+              "type": "link",
+              "url": "#part-2",
+              "text": "Global Alphabetical Keyword Index"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "",
+      "sourceLine": 26,
+      "rawMarkdown": "| Part 3 | [Question-to-Slide Reverse Index](#part-3) |",
+      "cells": [
+        {
+          "heading": "Section",
+          "markdown": "Part 3",
+          "text": "Part 3",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Part 3"
+            }
+          ]
+        },
+        {
+          "heading": "Go to",
+          "markdown": "[Question-to-Slide Reverse Index](#part-3)",
+          "text": "Question-to-Slide Reverse Index",
+          "segments": [
+            {
+              "type": "link",
+              "url": "#part-3",
+              "text": "Question-to-Slide Reverse Index"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "",
+      "sourceLine": 27,
+      "rawMarkdown": "| Part 4 | [Lecture-by-Lecture Detailed Index](#part-4) |",
+      "cells": [
+        {
+          "heading": "Section",
+          "markdown": "Part 4",
+          "text": "Part 4",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Part 4"
+            }
+          ]
+        },
+        {
+          "heading": "Go to",
+          "markdown": "[Lecture-by-Lecture Detailed Index](#part-4)",
+          "text": "Lecture-by-Lecture Detailed Index",
+          "segments": [
+            {
+              "type": "link",
+              "url": "#part-4",
+              "text": "Lecture-by-Lecture Detailed Index"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "",
+      "sourceLine": 28,
+      "rawMarkdown": "| Part 5 | [Formula and Evaluation Metrics Index](#part-5) |",
+      "cells": [
+        {
+          "heading": "Section",
+          "markdown": "Part 5",
+          "text": "Part 5",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Part 5"
+            }
+          ]
+        },
+        {
+          "heading": "Go to",
+          "markdown": "[Formula and Evaluation Metrics Index](#part-5)",
+          "text": "Formula and Evaluation Metrics Index",
+          "segments": [
+            {
+              "type": "link",
+              "url": "#part-5",
+              "text": "Formula and Evaluation Metrics Index"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "",
+      "sourceLine": 29,
+      "rawMarkdown": "| Part 6 | [Easily Confused Concepts](#part-6) |",
+      "cells": [
+        {
+          "heading": "Section",
+          "markdown": "Part 6",
+          "text": "Part 6",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Part 6"
+            }
+          ]
+        },
+        {
+          "heading": "Go to",
+          "markdown": "[Easily Confused Concepts](#part-6)",
+          "text": "Easily Confused Concepts",
+          "segments": [
+            {
+              "type": "link",
+              "url": "#part-6",
+              "text": "Easily Confused Concepts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "",
+      "sourceLine": 30,
+      "rawMarkdown": "| Part 7 | [Clinical Cases and Real-World Examples](#part-7) |",
+      "cells": [
+        {
+          "heading": "Section",
+          "markdown": "Part 7",
+          "text": "Part 7",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Part 7"
+            }
+          ]
+        },
+        {
+          "heading": "Go to",
+          "markdown": "[Clinical Cases and Real-World Examples](#part-7)",
+          "text": "Clinical Cases and Real-World Examples",
+          "segments": [
+            {
+              "type": "link",
+              "url": "#part-7",
+              "text": "Clinical Cases and Real-World Examples"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "",
+      "sourceLine": 31,
+      "rawMarkdown": "| Part 8 | [Ultra-Compact Exam Cheat Sheet](#part-8) |",
+      "cells": [
+        {
+          "heading": "Section",
+          "markdown": "Part 8",
+          "text": "Part 8",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Part 8"
+            }
+          ]
+        },
+        {
+          "heading": "Go to",
+          "markdown": "[Ultra-Compact Exam Cheat Sheet](#part-8)",
+          "text": "Ultra-Compact Exam Cheat Sheet",
+          "segments": [
+            {
+              "type": "link",
+              "url": "#part-8",
+              "text": "Ultra-Compact Exam Cheat Sheet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Source and page-number convention / 引用口径",
+      "sourceLine": 39,
+      "rawMarkdown": "| Lec 3, PDF pp. 19, 33–38 | 页面没有清晰可见的本课数字页脚；以 PDF page 定位，不补造 printed slide number。 |",
+      "cells": [
+        {
+          "heading": "PDF page / canonical Slide",
+          "markdown": "Lec 3, PDF pp. 19, 33–38",
+          "text": "Lec 3, PDF pp. 19, 33–38",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 3, PDF pp. 19, 33–38"
+            }
+          ]
+        },
+        {
+          "heading": "Printed numbering / 注意事项",
+          "markdown": "页面没有清晰可见的本课数字页脚；以 PDF page 定位，不补造 printed slide number。",
+          "text": "页面没有清晰可见的本课数字页脚；以 PDF page 定位，不补造 printed slide number。",
+          "segments": [
+            {
+              "type": "text",
+              "text": "页面没有清晰可见的本课数字页脚；以 PDF page 定位，不补造 printed slide number。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Source and page-number convention / 引用口径",
+      "sourceLine": 40,
+      "rawMarkdown": "| Lec 3, PDF pp. 14, 16, 27 | 嵌入旧图/旧课件附近另见 4、6、29 等数字；本文件用本课 PDF 14、16、27，不使用嵌入编号。 |",
+      "cells": [
+        {
+          "heading": "PDF page / canonical Slide",
+          "markdown": "Lec 3, PDF pp. 14, 16, 27",
+          "text": "Lec 3, PDF pp. 14, 16, 27",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 3, PDF pp. 14, 16, 27"
+            }
+          ]
+        },
+        {
+          "heading": "Printed numbering / 注意事项",
+          "markdown": "嵌入旧图/旧课件附近另见 4、6、29 等数字；本文件用本课 PDF 14、16、27，不使用嵌入编号。",
+          "text": "嵌入旧图/旧课件附近另见 4、6、29 等数字；本文件用本课 PDF 14、16、27，不使用嵌入编号。",
+          "segments": [
+            {
+              "type": "text",
+              "text": "嵌入旧图/旧课件附近另见 4、6、29 等数字；本文件用本课 PDF 14、16、27，不使用嵌入编号。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Source and page-number convention / 引用口径",
+      "sourceLine": 41,
+      "rawMarkdown": "| Lec 10, PDF p. 47 | 插图中另有旧编号 25；本课页脚/PDF 均为47。 |",
+      "cells": [
+        {
+          "heading": "PDF page / canonical Slide",
+          "markdown": "Lec 10, PDF p. 47",
+          "text": "Lec 10, PDF p. 47",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 10, PDF p. 47"
+            }
+          ]
+        },
+        {
+          "heading": "Printed numbering / 注意事项",
+          "markdown": "插图中另有旧编号 25；本课页脚/PDF 均为47。",
+          "text": "插图中另有旧编号 25；本课页脚/PDF 均为47。",
+          "segments": [
+            {
+              "type": "text",
+              "text": "插图中另有旧编号 25；本课页脚/PDF 均为47。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Source and page-number convention / 引用口径",
+      "sourceLine": 42,
+      "rawMarkdown": "| Lec 4–5; Lec 10 pp. 13–15 | 页脚有2025或2022等旧年份，年份不改变本文件的Lecture/PDF定位。 |",
+      "cells": [
+        {
+          "heading": "PDF page / canonical Slide",
+          "markdown": "Lec 4–5; Lec 10 pp. 13–15",
+          "text": "Lec 4–5; Lec 10 pp. 13–15",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 4–5; Lec 10 pp. 13–15"
+            }
+          ]
+        },
+        {
+          "heading": "Printed numbering / 注意事项",
+          "markdown": "页脚有2025或2022等旧年份，年份不改变本文件的Lecture/PDF定位。",
+          "text": "页脚有2025或2022等旧年份，年份不改变本文件的Lecture/PDF定位。",
+          "segments": [
+            {
+              "type": "text",
+              "text": "页脚有2025或2022等旧年份，年份不改变本文件的Lecture/PDF定位。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Coverage report / 覆盖报告",
+      "sourceLine": 50,
+      "rawMarkdown": "| Lec 2 | [lec_2_history_uniqueness.pdf](lec_2_history_uniqueness.pdf) | 41 | 1–41：文字提取 + 逐页渲染检查 |",
+      "cells": [
+        {
+          "heading": "Lecture",
+          "markdown": "Lec 2",
+          "text": "Lec 2",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 2"
+            }
+          ]
+        },
+        {
+          "heading": "Original PDF Filename",
+          "markdown": "[lec_2_history_uniqueness.pdf](lec_2_history_uniqueness.pdf)",
+          "text": "lec_2_history_uniqueness.pdf",
+          "segments": [
+            {
+              "type": "link",
+              "url": "lec_2_history_uniqueness.pdf",
+              "text": "lec_2_history_uniqueness.pdf"
+            }
+          ]
+        },
+        {
+          "heading": "Slide count",
+          "markdown": "41",
+          "text": "41",
+          "segments": [
+            {
+              "type": "text",
+              "text": "41"
+            }
+          ]
+        },
+        {
+          "heading": "Processed coverage",
+          "markdown": "1–41：文字提取 + 逐页渲染检查",
+          "text": "1–41：文字提取 + 逐页渲染检查",
+          "segments": [
+            {
+              "type": "text",
+              "text": "1–41：文字提取 + 逐页渲染检查"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Coverage report / 覆盖报告",
+      "sourceLine": 51,
+      "rawMarkdown": "| Lec 3 | [lec_3_understanding_clinical_care_and_clinical_data.pdf](lec_3_understanding_clinical_care_and_clinical_data.pdf) | 40 | 1–40：文字提取 + 逐页渲染检查 |",
+      "cells": [
+        {
+          "heading": "Lecture",
+          "markdown": "Lec 3",
+          "text": "Lec 3",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 3"
+            }
+          ]
+        },
+        {
+          "heading": "Original PDF Filename",
+          "markdown": "[lec_3_understanding_clinical_care_and_clinical_data.pdf](lec_3_understanding_clinical_care_and_clinical_data.pdf)",
+          "text": "lec_3_understanding_clinical_care_and_clinical_data.pdf",
+          "segments": [
+            {
+              "type": "link",
+              "url": "lec_3_understanding_clinical_care_and_clinical_data.pdf",
+              "text": "lec_3_understanding_clinical_care_and_clinical_data.pdf"
+            }
+          ]
+        },
+        {
+          "heading": "Slide count",
+          "markdown": "40",
+          "text": "40",
+          "segments": [
+            {
+              "type": "text",
+              "text": "40"
+            }
+          ]
+        },
+        {
+          "heading": "Processed coverage",
+          "markdown": "1–40：文字提取 + 逐页渲染检查",
+          "text": "1–40：文字提取 + 逐页渲染检查",
+          "segments": [
+            {
+              "type": "text",
+              "text": "1–40：文字提取 + 逐页渲染检查"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Coverage report / 覆盖报告",
+      "sourceLine": 52,
+      "rawMarkdown": "| Lec 4 | [lec_4_classification.pdf](lec_4_classification.pdf) | 42 | 1–42：文字提取 + 逐页渲染检查 |",
+      "cells": [
+        {
+          "heading": "Lecture",
+          "markdown": "Lec 4",
+          "text": "Lec 4",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 4"
+            }
+          ]
+        },
+        {
+          "heading": "Original PDF Filename",
+          "markdown": "[lec_4_classification.pdf](lec_4_classification.pdf)",
+          "text": "lec_4_classification.pdf",
+          "segments": [
+            {
+              "type": "link",
+              "url": "lec_4_classification.pdf",
+              "text": "lec_4_classification.pdf"
+            }
+          ]
+        },
+        {
+          "heading": "Slide count",
+          "markdown": "42",
+          "text": "42",
+          "segments": [
+            {
+              "type": "text",
+              "text": "42"
+            }
+          ]
+        },
+        {
+          "heading": "Processed coverage",
+          "markdown": "1–42：文字提取 + 逐页渲染检查",
+          "text": "1–42：文字提取 + 逐页渲染检查",
+          "segments": [
+            {
+              "type": "text",
+              "text": "1–42：文字提取 + 逐页渲染检查"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Coverage report / 覆盖报告",
+      "sourceLine": 53,
+      "rawMarkdown": "| Lec 5 | [lec_5_unsupervised_intro.pdf](lec_5_unsupervised_intro.pdf) | 45 | 1–45：文字提取 + 逐页渲染检查 |",
+      "cells": [
+        {
+          "heading": "Lecture",
+          "markdown": "Lec 5",
+          "text": "Lec 5",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 5"
+            }
+          ]
+        },
+        {
+          "heading": "Original PDF Filename",
+          "markdown": "[lec_5_unsupervised_intro.pdf](lec_5_unsupervised_intro.pdf)",
+          "text": "lec_5_unsupervised_intro.pdf",
+          "segments": [
+            {
+              "type": "link",
+              "url": "lec_5_unsupervised_intro.pdf",
+              "text": "lec_5_unsupervised_intro.pdf"
+            }
+          ]
+        },
+        {
+          "heading": "Slide count",
+          "markdown": "45",
+          "text": "45",
+          "segments": [
+            {
+              "type": "text",
+              "text": "45"
+            }
+          ]
+        },
+        {
+          "heading": "Processed coverage",
+          "markdown": "1–45：文字提取 + 逐页渲染检查",
+          "text": "1–45：文字提取 + 逐页渲染检查",
+          "segments": [
+            {
+              "type": "text",
+              "text": "1–45：文字提取 + 逐页渲染检查"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Coverage report / 覆盖报告",
+      "sourceLine": 54,
+      "rawMarkdown": "| Lec 6 | [lec_6_unsupervised_learning_II.pdf](lec_6_unsupervised_learning_II.pdf) | 40 | 1–40：文字提取 + 逐页渲染检查 |",
+      "cells": [
+        {
+          "heading": "Lecture",
+          "markdown": "Lec 6",
+          "text": "Lec 6",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 6"
+            }
+          ]
+        },
+        {
+          "heading": "Original PDF Filename",
+          "markdown": "[lec_6_unsupervised_learning_II.pdf](lec_6_unsupervised_learning_II.pdf)",
+          "text": "lec_6_unsupervised_learning_II.pdf",
+          "segments": [
+            {
+              "type": "link",
+              "url": "lec_6_unsupervised_learning_II.pdf",
+              "text": "lec_6_unsupervised_learning_II.pdf"
+            }
+          ]
+        },
+        {
+          "heading": "Slide count",
+          "markdown": "40",
+          "text": "40",
+          "segments": [
+            {
+              "type": "text",
+              "text": "40"
+            }
+          ]
+        },
+        {
+          "heading": "Processed coverage",
+          "markdown": "1–40：文字提取 + 逐页渲染检查",
+          "text": "1–40：文字提取 + 逐页渲染检查",
+          "segments": [
+            {
+              "type": "text",
+              "text": "1–40：文字提取 + 逐页渲染检查"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Coverage report / 覆盖报告",
+      "sourceLine": 55,
+      "rawMarkdown": "| Lec 7 | [lec_7_risk_stratification.pdf](lec_7_risk_stratification.pdf) | 39 | 1–39：文字提取 + 逐页渲染检查 |",
+      "cells": [
+        {
+          "heading": "Lecture",
+          "markdown": "Lec 7",
+          "text": "Lec 7",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 7"
+            }
+          ]
+        },
+        {
+          "heading": "Original PDF Filename",
+          "markdown": "[lec_7_risk_stratification.pdf](lec_7_risk_stratification.pdf)",
+          "text": "lec_7_risk_stratification.pdf",
+          "segments": [
+            {
+              "type": "link",
+              "url": "lec_7_risk_stratification.pdf",
+              "text": "lec_7_risk_stratification.pdf"
+            }
+          ]
+        },
+        {
+          "heading": "Slide count",
+          "markdown": "39",
+          "text": "39",
+          "segments": [
+            {
+              "type": "text",
+              "text": "39"
+            }
+          ]
+        },
+        {
+          "heading": "Processed coverage",
+          "markdown": "1–39：文字提取 + 逐页渲染检查",
+          "text": "1–39：文字提取 + 逐页渲染检查",
+          "segments": [
+            {
+              "type": "text",
+              "text": "1–39：文字提取 + 逐页渲染检查"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Coverage report / 覆盖报告",
+      "sourceLine": 56,
+      "rawMarkdown": "| Lec 8 | [lec_8_causal_inference.pdf](lec_8_causal_inference.pdf) | 51 | 1–51：文字提取 + 逐页渲染检查 |",
+      "cells": [
+        {
+          "heading": "Lecture",
+          "markdown": "Lec 8",
+          "text": "Lec 8",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 8"
+            }
+          ]
+        },
+        {
+          "heading": "Original PDF Filename",
+          "markdown": "[lec_8_causal_inference.pdf](lec_8_causal_inference.pdf)",
+          "text": "lec_8_causal_inference.pdf",
+          "segments": [
+            {
+              "type": "link",
+              "url": "lec_8_causal_inference.pdf",
+              "text": "lec_8_causal_inference.pdf"
+            }
+          ]
+        },
+        {
+          "heading": "Slide count",
+          "markdown": "51",
+          "text": "51",
+          "segments": [
+            {
+              "type": "text",
+              "text": "51"
+            }
+          ]
+        },
+        {
+          "heading": "Processed coverage",
+          "markdown": "1–51：文字提取 + 逐页渲染检查",
+          "text": "1–51：文字提取 + 逐页渲染检查",
+          "segments": [
+            {
+              "type": "text",
+              "text": "1–51：文字提取 + 逐页渲染检查"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Coverage report / 覆盖报告",
+      "sourceLine": 57,
+      "rawMarkdown": "| Lec 9 | [lec_9_pytorch.pdf](lec_9_pytorch.pdf) | 9 | 1–9：文字提取 + 逐页渲染检查 |",
+      "cells": [
+        {
+          "heading": "Lecture",
+          "markdown": "Lec 9",
+          "text": "Lec 9",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 9"
+            }
+          ]
+        },
+        {
+          "heading": "Original PDF Filename",
+          "markdown": "[lec_9_pytorch.pdf](lec_9_pytorch.pdf)",
+          "text": "lec_9_pytorch.pdf",
+          "segments": [
+            {
+              "type": "link",
+              "url": "lec_9_pytorch.pdf",
+              "text": "lec_9_pytorch.pdf"
+            }
+          ]
+        },
+        {
+          "heading": "Slide count",
+          "markdown": "9",
+          "text": "9",
+          "segments": [
+            {
+              "type": "text",
+              "text": "9"
+            }
+          ]
+        },
+        {
+          "heading": "Processed coverage",
+          "markdown": "1–9：文字提取 + 逐页渲染检查",
+          "text": "1–9：文字提取 + 逐页渲染检查",
+          "segments": [
+            {
+              "type": "text",
+              "text": "1–9：文字提取 + 逐页渲染检查"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Coverage report / 覆盖报告",
+      "sourceLine": 58,
+      "rawMarkdown": "| Lec 10 | [lec_10_cnns_for_medical_imaging.pdf](lec_10_cnns_for_medical_imaging.pdf) | 50 | 1–50：文字提取 + 逐页渲染检查 |",
+      "cells": [
+        {
+          "heading": "Lecture",
+          "markdown": "Lec 10",
+          "text": "Lec 10",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 10"
+            }
+          ]
+        },
+        {
+          "heading": "Original PDF Filename",
+          "markdown": "[lec_10_cnns_for_medical_imaging.pdf](lec_10_cnns_for_medical_imaging.pdf)",
+          "text": "lec_10_cnns_for_medical_imaging.pdf",
+          "segments": [
+            {
+              "type": "link",
+              "url": "lec_10_cnns_for_medical_imaging.pdf",
+              "text": "lec_10_cnns_for_medical_imaging.pdf"
+            }
+          ]
+        },
+        {
+          "heading": "Slide count",
+          "markdown": "50",
+          "text": "50",
+          "segments": [
+            {
+              "type": "text",
+              "text": "50"
+            }
+          ]
+        },
+        {
+          "heading": "Processed coverage",
+          "markdown": "1–50：文字提取 + 逐页渲染检查",
+          "text": "1–50：文字提取 + 逐页渲染检查",
+          "segments": [
+            {
+              "type": "text",
+              "text": "1–50：文字提取 + 逐页渲染检查"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Coverage report / 覆盖报告",
+      "sourceLine": 59,
+      "rawMarkdown": "| Lec 11 | [lec_11_explaining_ML_models.pdf](lec_11_explaining_ML_models.pdf) | 45 | 1–45：文字提取 + 逐页渲染检查 |",
+      "cells": [
+        {
+          "heading": "Lecture",
+          "markdown": "Lec 11",
+          "text": "Lec 11",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 11"
+            }
+          ]
+        },
+        {
+          "heading": "Original PDF Filename",
+          "markdown": "[lec_11_explaining_ML_models.pdf](lec_11_explaining_ML_models.pdf)",
+          "text": "lec_11_explaining_ML_models.pdf",
+          "segments": [
+            {
+              "type": "link",
+              "url": "lec_11_explaining_ML_models.pdf",
+              "text": "lec_11_explaining_ML_models.pdf"
+            }
+          ]
+        },
+        {
+          "heading": "Slide count",
+          "markdown": "45",
+          "text": "45",
+          "segments": [
+            {
+              "type": "text",
+              "text": "45"
+            }
+          ]
+        },
+        {
+          "heading": "Processed coverage",
+          "markdown": "1–45：文字提取 + 逐页渲染检查",
+          "text": "1–45：文字提取 + 逐页渲染检查",
+          "segments": [
+            {
+              "type": "text",
+              "text": "1–45：文字提取 + 逐页渲染检查"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Ambiguities and scope limits / 原材料疑义与范围限制",
+      "sourceLine": 67,
+      "rawMarkdown": "| LIONC / LOINC | 正文拼写差异，检索统一LOINC，并保留LIONC别名。 | Lec 2 \\| Slide 17 \\| [lec_2_history_uniqueness.pdf](lec_2_history_uniqueness.pdf#page=17) |",
+      "cells": [
+        {
+          "heading": "Material",
+          "markdown": "LIONC / LOINC",
+          "text": "LIONC / LOINC",
+          "segments": [
+            {
+              "type": "text",
+              "text": "LIONC / LOINC"
+            }
+          ]
+        },
+        {
+          "heading": "How indexed",
+          "markdown": "正文拼写差异，检索统一LOINC，并保留LIONC别名。",
+          "text": "正文拼写差异，检索统一LOINC，并保留LIONC别名。",
+          "segments": [
+            {
+              "type": "text",
+              "text": "正文拼写差异，检索统一LOINC，并保留LIONC别名。"
+            }
+          ]
+        },
+        {
+          "heading": "Exact source",
+          "markdown": "Lec 2 | Slide 17 | [lec_2_history_uniqueness.pdf](lec_2_history_uniqueness.pdf#page=17)",
+          "text": "Lec 2 | Slide 17 | lec_2_history_uniqueness.pdf",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 2 | Slide 17 | "
+            },
+            {
+              "type": "link",
+              "url": "lec_2_history_uniqueness.pdf#page=17",
+              "text": "lec_2_history_uniqueness.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Ambiguities and scope limits / 原材料疑义与范围限制",
+      "sourceLine": 68,
+      "rawMarkdown": "| LVEF / Cardiac output | 同页名称不一致；只将连续量预测作为regression例。 | Lec 4 \\| Slide 14 \\| [lec_4_classification.pdf](lec_4_classification.pdf#page=14) |",
+      "cells": [
+        {
+          "heading": "Material",
+          "markdown": "LVEF / Cardiac output",
+          "text": "LVEF / Cardiac output",
+          "segments": [
+            {
+              "type": "text",
+              "text": "LVEF / Cardiac output"
+            }
+          ]
+        },
+        {
+          "heading": "How indexed",
+          "markdown": "同页名称不一致；只将连续量预测作为regression例。",
+          "text": "同页名称不一致；只将连续量预测作为regression例。",
+          "segments": [
+            {
+              "type": "text",
+              "text": "同页名称不一致；只将连续量预测作为regression例。"
+            }
+          ]
+        },
+        {
+          "heading": "Exact source",
+          "markdown": "Lec 4 | Slide 14 | [lec_4_classification.pdf](lec_4_classification.pdf#page=14)",
+          "text": "Lec 4 | Slide 14 | lec_4_classification.pdf",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 4 | Slide 14 | "
+            },
+            {
+              "type": "link",
+              "url": "lec_4_classification.pdf#page=14",
+              "text": "lec_4_classification.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Ambiguities and scope limits / 原材料疑义与范围限制",
+      "sourceLine": 69,
+      "rawMarkdown": "| PCA “Correlation” / “first order” | ρ式未除标准差；first order按原文保留。补充辨析：covariance是二阶量，不能据此把PCA视作只用均值。 | Lec 5 \\| Slide 24, 40 \\| [lec_5_unsupervised_intro.pdf](lec_5_unsupervised_intro.pdf#page=24) |",
+      "cells": [
+        {
+          "heading": "Material",
+          "markdown": "PCA “Correlation” / “first order”",
+          "text": "PCA “Correlation” / “first order”",
+          "segments": [
+            {
+              "type": "text",
+              "text": "PCA “Correlation” / “first order”"
+            }
+          ]
+        },
+        {
+          "heading": "How indexed",
+          "markdown": "ρ式未除标准差；first order按原文保留。补充辨析：covariance是二阶量，不能据此把PCA视作只用均值。",
+          "text": "ρ式未除标准差；first order按原文保留。补充辨析：covariance是二阶量，不能据此把PCA视作只用均值。",
+          "segments": [
+            {
+              "type": "text",
+              "text": "ρ式未除标准差；first order按原文保留。补充辨析：covariance是二阶量，不能据此把PCA视作只用均值。"
+            }
+          ]
+        },
+        {
+          "heading": "Exact source",
+          "markdown": "Lec 5 | Slide 24, 40 | [lec_5_unsupervised_intro.pdf](lec_5_unsupervised_intro.pdf#page=24)",
+          "text": "Lec 5 | Slide 24, 40 | lec_5_unsupervised_intro.pdf",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 5 | Slide 24, 40 | "
+            },
+            {
+              "type": "link",
+              "url": "lec_5_unsupervised_intro.pdf#page=24",
+              "text": "lec_5_unsupervised_intro.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Ambiguities and scope limits / 原材料疑义与范围限制",
+      "sourceLine": 70,
+      "rawMarkdown": "| Canberra / Pearson / cosine表 | Canberra分母有适用限制；Pearson分母重复y疑误；cosine/Pearson是similarities。详见Part5。 | Lec 6 \\| Slide 19 \\| [lec_6_unsupervised_learning_II.pdf](lec_6_unsupervised_learning_II.pdf#page=19) |",
+      "cells": [
+        {
+          "heading": "Material",
+          "markdown": "Canberra / Pearson / cosine表",
+          "text": "Canberra / Pearson / cosine表",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Canberra / Pearson / cosine表"
+            }
+          ]
+        },
+        {
+          "heading": "How indexed",
+          "markdown": "Canberra分母有适用限制；Pearson分母重复y疑误；cosine/Pearson是similarities。详见Part5。",
+          "text": "Canberra分母有适用限制；Pearson分母重复y疑误；cosine/Pearson是similarities。详见Part5。",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Canberra分母有适用限制；Pearson分母重复y疑误；cosine/Pearson是similarities。详见Part5。"
+            }
+          ]
+        },
+        {
+          "heading": "Exact source",
+          "markdown": "Lec 6 | Slide 19 | [lec_6_unsupervised_learning_II.pdf](lec_6_unsupervised_learning_II.pdf#page=19)",
+          "text": "Lec 6 | Slide 19 | lec_6_unsupervised_learning_II.pdf",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 6 | Slide 19 | "
+            },
+            {
+              "type": "link",
+              "url": "lec_6_unsupervised_learning_II.pdf#page=19",
+              "text": "lec_6_unsupervised_learning_II.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Ambiguities and scope limits / 原材料疑义与范围限制",
+      "sourceLine": 71,
+      "rawMarkdown": "| Hierarchical optimal k / DBSCAN MinPts | 层次页称自动得最优k但未给规则；MinPts的minimum与more than措辞不一致，边界不猜。 | Lec 6 \\| Slide 28–30 \\| [lec_6_unsupervised_learning_II.pdf](lec_6_unsupervised_learning_II.pdf#page=28) |",
+      "cells": [
+        {
+          "heading": "Material",
+          "markdown": "Hierarchical optimal k / DBSCAN MinPts",
+          "text": "Hierarchical optimal k / DBSCAN MinPts",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Hierarchical optimal k / DBSCAN MinPts"
+            }
+          ]
+        },
+        {
+          "heading": "How indexed",
+          "markdown": "层次页称自动得最优k但未给规则；MinPts的minimum与more than措辞不一致，边界不猜。",
+          "text": "层次页称自动得最优k但未给规则；MinPts的minimum与more than措辞不一致，边界不猜。",
+          "segments": [
+            {
+              "type": "text",
+              "text": "层次页称自动得最优k但未给规则；MinPts的minimum与more than措辞不一致，边界不猜。"
+            }
+          ]
+        },
+        {
+          "heading": "Exact source",
+          "markdown": "Lec 6 | Slide 28–30 | [lec_6_unsupervised_learning_II.pdf](lec_6_unsupervised_learning_II.pdf#page=28)",
+          "text": "Lec 6 | Slide 28–30 | lec_6_unsupervised_learning_II.pdf",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 6 | Slide 28–30 | "
+            },
+            {
+              "type": "link",
+              "url": "lec_6_unsupervised_learning_II.pdf#page=28",
+              "text": "lec_6_unsupervised_learning_II.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Ambiguities and scope limits / 原材料疑义与范围限制",
+      "sourceLine": 72,
+      "rawMarkdown": "| Silhouette coefficient | 原式(b−a)/b与typically0–1有条件限制；标注而不静默改写。 | Lec 6 \\| Slide 39 \\| [lec_6_unsupervised_learning_II.pdf](lec_6_unsupervised_learning_II.pdf#page=39)<br>Lec 7 \\| Slide 11 \\| [lec_7_risk_stratification.pdf](lec_7_risk_stratification.pdf#page=11) |",
+      "cells": [
+        {
+          "heading": "Material",
+          "markdown": "Silhouette coefficient",
+          "text": "Silhouette coefficient",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Silhouette coefficient"
+            }
+          ]
+        },
+        {
+          "heading": "How indexed",
+          "markdown": "原式(b−a)/b与typically0–1有条件限制；标注而不静默改写。",
+          "text": "原式(b−a)/b与typically0–1有条件限制；标注而不静默改写。",
+          "segments": [
+            {
+              "type": "text",
+              "text": "原式(b−a)/b与typically0–1有条件限制；标注而不静默改写。"
+            }
+          ]
+        },
+        {
+          "heading": "Exact source",
+          "markdown": "Lec 6 | Slide 39 | [lec_6_unsupervised_learning_II.pdf](lec_6_unsupervised_learning_II.pdf#page=39)\nLec 7 | Slide 11 | [lec_7_risk_stratification.pdf](lec_7_risk_stratification.pdf#page=11)",
+          "text": "Lec 6 | Slide 39 | lec_6_unsupervised_learning_II.pdf\nLec 7 | Slide 11 | lec_7_risk_stratification.pdf",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 6 | Slide 39 | "
+            },
+            {
+              "type": "link",
+              "url": "lec_6_unsupervised_learning_II.pdf#page=39",
+              "text": "lec_6_unsupervised_learning_II.pdf"
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "text",
+              "text": "Lec 7 | Slide 11 | "
+            },
+            {
+              "type": "link",
+              "url": "lec_7_risk_stratification.pdf#page=11",
+              "text": "lec_7_risk_stratification.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Ambiguities and scope limits / 原材料疑义与范围限制",
+      "sourceLine": 73,
+      "rawMarkdown": "| Apgar / claims counts | Apgar pulse恰好100未明示；codes表count有大于标称135K患者的值，不能直接作患病率。 | Lec 7 \\| Slide 20, 27–28 \\| [lec_7_risk_stratification.pdf](lec_7_risk_stratification.pdf#page=20) |",
+      "cells": [
+        {
+          "heading": "Material",
+          "markdown": "Apgar / claims counts",
+          "text": "Apgar / claims counts",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Apgar / claims counts"
+            }
+          ]
+        },
+        {
+          "heading": "How indexed",
+          "markdown": "Apgar pulse恰好100未明示；codes表count有大于标称135K患者的值，不能直接作患病率。",
+          "text": "Apgar pulse恰好100未明示；codes表count有大于标称135K患者的值，不能直接作患病率。",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Apgar pulse恰好100未明示；codes表count有大于标称135K患者的值，不能直接作患病率。"
+            }
+          ]
+        },
+        {
+          "heading": "Exact source",
+          "markdown": "Lec 7 | Slide 20, 27–28 | [lec_7_risk_stratification.pdf](lec_7_risk_stratification.pdf#page=20)",
+          "text": "Lec 7 | Slide 20, 27–28 | lec_7_risk_stratification.pdf",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 7 | Slide 20, 27–28 | "
+            },
+            {
+              "type": "link",
+              "url": "lec_7_risk_stratification.pdf#page=20",
+              "text": "lec_7_risk_stratification.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Ambiguities and scope limits / 原材料疑义与范围限制",
+      "sourceLine": 74,
+      "rawMarkdown": "| Causal method names only | propensity reweighting、doubly robust、matching仅列名，无对应算法推导。 | Lec 8 \\| Slide 43 \\| [lec_8_causal_inference.pdf](lec_8_causal_inference.pdf#page=43) |",
+      "cells": [
+        {
+          "heading": "Material",
+          "markdown": "Causal method names only",
+          "text": "Causal method names only",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Causal method names only"
+            }
+          ]
+        },
+        {
+          "heading": "How indexed",
+          "markdown": "propensity reweighting、doubly robust、matching仅列名，无对应算法推导。",
+          "text": "propensity reweighting、doubly robust、matching仅列名，无对应算法推导。",
+          "segments": [
+            {
+              "type": "text",
+              "text": "propensity reweighting、doubly robust、matching仅列名，无对应算法推导。"
+            }
+          ]
+        },
+        {
+          "heading": "Exact source",
+          "markdown": "Lec 8 | Slide 43 | [lec_8_causal_inference.pdf](lec_8_causal_inference.pdf#page=43)",
+          "text": "Lec 8 | Slide 43 | lec_8_causal_inference.pdf",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 8 | Slide 43 | "
+            },
+            {
+              "type": "link",
+              "url": "lec_8_causal_inference.pdf#page=43",
+              "text": "lec_8_causal_inference.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Ambiguities and scope limits / 原材料疑义与范围限制",
+      "sourceLine": 75,
+      "rawMarkdown": "| PyTorch tutorial content | 仅tensors/operations/gradients/CPU-GPU/training-evaluation提纲，PDF无实际代码。 | Lec 9 \\| Slide 7 \\| [lec_9_pytorch.pdf](lec_9_pytorch.pdf#page=7) |",
+      "cells": [
+        {
+          "heading": "Material",
+          "markdown": "PyTorch tutorial content",
+          "text": "PyTorch tutorial content",
+          "segments": [
+            {
+              "type": "text",
+              "text": "PyTorch tutorial content"
+            }
+          ]
+        },
+        {
+          "heading": "How indexed",
+          "markdown": "仅tensors/operations/gradients/CPU-GPU/training-evaluation提纲，PDF无实际代码。",
+          "text": "仅tensors/operations/gradients/CPU-GPU/training-evaluation提纲，PDF无实际代码。",
+          "segments": [
+            {
+              "type": "text",
+              "text": "仅tensors/operations/gradients/CPU-GPU/training-evaluation提纲，PDF无实际代码。"
+            }
+          ]
+        },
+        {
+          "heading": "Exact source",
+          "markdown": "Lec 9 | Slide 7 | [lec_9_pytorch.pdf](lec_9_pytorch.pdf#page=7)",
+          "text": "Lec 9 | Slide 7 | lec_9_pytorch.pdf",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 9 | Slide 7 | "
+            },
+            {
+              "type": "link",
+              "url": "lec_9_pytorch.pdf#page=7",
+              "text": "lec_9_pytorch.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Ambiguities and scope limits / 原材料疑义与范围限制",
+      "sourceLine": 76,
+      "rawMarkdown": "| Convolution sign / same-padding terminology | 卷积印式方向与flip说明有疑误；same和zero被混称。详见Part5/6。 | Lec 10 \\| Slide 11 \\| [lec_10_cnns_for_medical_imaging.pdf](lec_10_cnns_for_medical_imaging.pdf#page=11)<br>Lec 11 \\| Slide 4 \\| [lec_11_explaining_ML_models.pdf](lec_11_explaining_ML_models.pdf#page=4) |",
+      "cells": [
+        {
+          "heading": "Material",
+          "markdown": "Convolution sign / same-padding terminology",
+          "text": "Convolution sign / same-padding terminology",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Convolution sign / same-padding terminology"
+            }
+          ]
+        },
+        {
+          "heading": "How indexed",
+          "markdown": "卷积印式方向与flip说明有疑误；same和zero被混称。详见Part5/6。",
+          "text": "卷积印式方向与flip说明有疑误；same和zero被混称。详见Part5/6。",
+          "segments": [
+            {
+              "type": "text",
+              "text": "卷积印式方向与flip说明有疑误；same和zero被混称。详见Part5/6。"
+            }
+          ]
+        },
+        {
+          "heading": "Exact source",
+          "markdown": "Lec 10 | Slide 11 | [lec_10_cnns_for_medical_imaging.pdf](lec_10_cnns_for_medical_imaging.pdf#page=11)\nLec 11 | Slide 4 | [lec_11_explaining_ML_models.pdf](lec_11_explaining_ML_models.pdf#page=4)",
+          "text": "Lec 10 | Slide 11 | lec_10_cnns_for_medical_imaging.pdf\nLec 11 | Slide 4 | lec_11_explaining_ML_models.pdf",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 10 | Slide 11 | "
+            },
+            {
+              "type": "link",
+              "url": "lec_10_cnns_for_medical_imaging.pdf#page=11",
+              "text": "lec_10_cnns_for_medical_imaging.pdf"
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "text",
+              "text": "Lec 11 | Slide 4 | "
+            },
+            {
+              "type": "link",
+              "url": "lec_11_explaining_ML_models.pdf#page=4",
+              "text": "lec_11_explaining_ML_models.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Ambiguities and scope limits / 原材料疑义与范围限制",
+      "sourceLine": 77,
+      "rawMarkdown": "| Small figure labels / saliency bars | 保留清晰可读的结构、变量和标注；不从小柱高猜精确数值，LIME图不补外部研究结论。 | Lec 11 \\| Slide 29, 32 \\| [lec_11_explaining_ML_models.pdf](lec_11_explaining_ML_models.pdf#page=29) |",
+      "cells": [
+        {
+          "heading": "Material",
+          "markdown": "Small figure labels / saliency bars",
+          "text": "Small figure labels / saliency bars",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Small figure labels / saliency bars"
+            }
+          ]
+        },
+        {
+          "heading": "How indexed",
+          "markdown": "保留清晰可读的结构、变量和标注；不从小柱高猜精确数值，LIME图不补外部研究结论。",
+          "text": "保留清晰可读的结构、变量和标注；不从小柱高猜精确数值，LIME图不补外部研究结论。",
+          "segments": [
+            {
+              "type": "text",
+              "text": "保留清晰可读的结构、变量和标注；不从小柱高猜精确数值，LIME图不补外部研究结论。"
+            }
+          ]
+        },
+        {
+          "heading": "Exact source",
+          "markdown": "Lec 11 | Slide 29, 32 | [lec_11_explaining_ML_models.pdf](lec_11_explaining_ML_models.pdf#page=29)",
+          "text": "Lec 11 | Slide 29, 32 | lec_11_explaining_ML_models.pdf",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 11 | Slide 29, 32 | "
+            },
+            {
+              "type": "link",
+              "url": "lec_11_explaining_ML_models.pdf#page=29",
+              "text": "lec_11_explaining_ML_models.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Ambiguities and scope limits / 原材料疑义与范围限制",
+      "sourceLine": 78,
+      "rawMarkdown": "| CAM / saliency variants / discussion | CAM仅提纲；多种saliency变体仅图名；末页解释评价是开放讨论，无给定标准公式。 | Lec 11 \\| Slide 8, 26, 43–44 \\| [lec_11_explaining_ML_models.pdf](lec_11_explaining_ML_models.pdf#page=8) |",
+      "cells": [
+        {
+          "heading": "Material",
+          "markdown": "CAM / saliency variants / discussion",
+          "text": "CAM / saliency variants / discussion",
+          "segments": [
+            {
+              "type": "text",
+              "text": "CAM / saliency variants / discussion"
+            }
+          ]
+        },
+        {
+          "heading": "How indexed",
+          "markdown": "CAM仅提纲；多种saliency变体仅图名；末页解释评价是开放讨论，无给定标准公式。",
+          "text": "CAM仅提纲；多种saliency变体仅图名；末页解释评价是开放讨论，无给定标准公式。",
+          "segments": [
+            {
+              "type": "text",
+              "text": "CAM仅提纲；多种saliency变体仅图名；末页解释评价是开放讨论，无给定标准公式。"
+            }
+          ]
+        },
+        {
+          "heading": "Exact source",
+          "markdown": "Lec 11 | Slide 8, 26, 43–44 | [lec_11_explaining_ML_models.pdf](lec_11_explaining_ML_models.pdf#page=8)",
+          "text": "Lec 11 | Slide 8, 26, 43–44 | lec_11_explaining_ML_models.pdf",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 11 | Slide 8, 26, 43–44 | "
+            },
+            {
+              "type": "link",
+              "url": "lec_11_explaining_ML_models.pdf#page=8",
+              "text": "lec_11_explaining_ML_models.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "sourceSection": "Part 1: Quick Navigation Dashboard",
+      "sourceContext": "Ambiguities and scope limits / 原材料疑义与范围限制",
+      "sourceLine": 79,
+      "rawMarkdown": "| Shapely / Shapley | 课件拼写Shapely保留为搜索别名，标准检索名Shapley。 | Lec 11 \\| Slide 33–36 \\| [lec_11_explaining_ML_models.pdf](lec_11_explaining_ML_models.pdf#page=33) |",
+      "cells": [
+        {
+          "heading": "Material",
+          "markdown": "Shapely / Shapley",
+          "text": "Shapely / Shapley",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Shapely / Shapley"
+            }
+          ]
+        },
+        {
+          "heading": "How indexed",
+          "markdown": "课件拼写Shapely保留为搜索别名，标准检索名Shapley。",
+          "text": "课件拼写Shapely保留为搜索别名，标准检索名Shapley。",
+          "segments": [
+            {
+              "type": "text",
+              "text": "课件拼写Shapely保留为搜索别名，标准检索名Shapley。"
+            }
+          ]
+        },
+        {
+          "heading": "Exact source",
+          "markdown": "Lec 11 | Slide 33–36 | [lec_11_explaining_ML_models.pdf](lec_11_explaining_ML_models.pdf#page=33)",
+          "text": "Lec 11 | Slide 33–36 | lec_11_explaining_ML_models.pdf",
+          "segments": [
+            {
+              "type": "text",
+              "text": "Lec 11 | Slide 33–36 | "
+            },
+            {
+              "type": "link",
+              "url": "lec_11_explaining_ML_models.pdf#page=33",
+              "text": "lec_11_explaining_ML_models.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "categoryCounts": {
+    "Concepts": 520,
+    "Quiz Questions": 97,
+    "Lecture Topics": 164,
+    "Formulas": 59,
+    "Comparisons": 60,
+    "Clinical Cases": 69,
+    "Quick Lookup": 32
+  },
+  "englishNotes": 1001,
+  "slidePages": 402,
+  "textPages": 402,
+  "slideCoverage": [
+    {
+      "pdfFilename": "lec_2_history_uniqueness.pdf",
+      "pages": 41,
+      "textPages": 41,
+      "lowTextPages": [
+        15,
+        20,
+        22,
+        23,
+        26,
+        27,
+        32,
+        33,
+        41
+      ]
+    },
+    {
+      "pdfFilename": "lec_3_understanding_clinical_care_and_clinical_data.pdf",
+      "pages": 40,
+      "textPages": 40,
+      "lowTextPages": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        40
+      ]
+    },
+    {
+      "pdfFilename": "lec_4_classification.pdf",
+      "pages": 42,
+      "textPages": 42,
+      "lowTextPages": [
+        1,
+        3,
+        35,
+        42
+      ]
+    },
+    {
+      "pdfFilename": "lec_5_unsupervised_intro.pdf",
+      "pages": 45,
+      "textPages": 45,
+      "lowTextPages": [
+        1,
+        11,
+        34,
+        36,
+        37,
+        42,
+        43,
+        45
+      ]
+    },
+    {
+      "pdfFilename": "lec_6_unsupervised_learning_II.pdf",
+      "pages": 40,
+      "textPages": 40,
+      "lowTextPages": [
+        1,
+        2,
+        24,
+        26,
+        40
+      ]
+    },
+    {
+      "pdfFilename": "lec_7_risk_stratification.pdf",
+      "pages": 39,
+      "textPages": 39,
+      "lowTextPages": [
+        1,
+        16,
+        18,
+        20,
+        21,
+        39
+      ]
+    },
+    {
+      "pdfFilename": "lec_8_causal_inference.pdf",
+      "pages": 51,
+      "textPages": 51,
+      "lowTextPages": [
+        51
+      ]
+    },
+    {
+      "pdfFilename": "lec_9_pytorch.pdf",
+      "pages": 9,
+      "textPages": 9,
+      "lowTextPages": [
+        1,
+        9
+      ]
+    },
+    {
+      "pdfFilename": "lec_10_cnns_for_medical_imaging.pdf",
+      "pages": 50,
+      "textPages": 50,
+      "lowTextPages": [
+        8,
+        10,
+        12,
+        22,
+        23,
+        24,
+        26,
+        27,
+        28,
+        29,
+        31,
+        41,
+        42,
+        45,
+        50
+      ]
+    },
+    {
+      "pdfFilename": "lec_11_explaining_ML_models.pdf",
+      "pages": 45,
+      "textPages": 45,
+      "lowTextPages": [
+        1,
+        11,
+        24,
+        26,
+        31,
+        45
+      ]
+    }
+  ],
+  "searchLimitations": [
+    "PDF text layers are indexed in full. Text embedded only in images and some formula glyphs require OCR; short text pages are listed in slideCoverage.lowTextPages for review."
+  ]
+}
